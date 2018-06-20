@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510836009 source:e:\ics practice\string\vowels in string\main.c
+	<stdio.h>
+	<string.h>
+

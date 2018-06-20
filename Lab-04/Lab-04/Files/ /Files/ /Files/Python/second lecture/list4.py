@@ -1,0 +1,9 @@
+motorcycles=['honda','yamaha','suzuki']
+removedmotorcycles=[]
+print(motorcycles)
+removedmotorcycles.append(motorcycles.pop())
+print(motorcycles)
+print(removedmotorcycles)
+removedmotorcycles.append(motorcycles.pop())
+print(motorcycles)
+print(removedmotorcycles)

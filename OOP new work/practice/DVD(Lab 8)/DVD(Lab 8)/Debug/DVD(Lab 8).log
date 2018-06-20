@@ -1,0 +1,32 @@
+﻿Build started 4/25/2018 8:00:57 AM.
+     1>Project "E:\taha work\OOP Labs\OOP new work\practice\DVD(Lab 8)\DVD(Lab 8)\DVD(Lab 8).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\DVD(Lab 8).unsuccessfulbuild".
+       ClCompile:
+         E:\taha\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\dvdd.h(6): error C2011: 'Dvdd' : 'class' type redefinition
+                 e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\dvdd.h(6) : see declaration of 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\dvdcollection.h(44): warning C4150: deletion of pointer to incomplete type 'Dvdd'; no destructor called
+                 e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\dvdd.h(6) : see declaration of 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(11): error C2079: 'd1' uses undefined class 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(12): error C2079: 'd2' uses undefined class 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(12): error C2078: too many initializers
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(13): error C2079: 'd3' uses undefined class 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(13): error C2078: too many initializers
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(14): error C2079: 'd4' uses undefined class 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(14): error C2078: too many initializers
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(15): error C2079: 'd5' uses undefined class 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(15): error C2078: too many initializers
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(16): error C2079: 'd6' uses undefined class 'Dvdd'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(16): error C2078: too many initializers
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(17): error C2664: 'DvdCollection::add_Dvd' : cannot convert parameter 1 from 'int' to 'Dvdd &'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(18): error C2664: 'DvdCollection::add_Dvd' : cannot convert parameter 1 from 'int' to 'Dvdd &'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(19): error C2664: 'DvdCollection::add_Dvd' : cannot convert parameter 1 from 'int' to 'Dvdd &'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(20): error C2664: 'DvdCollection::add_Dvd' : cannot convert parameter 1 from 'int' to 'Dvdd &'
+     1>e:\taha work\oop labs\oop new work\practice\dvd(lab 8)\dvd(lab 8)\main.cpp(21): error C2664: 'DvdCollection::add_Dvd' : cannot convert parameter 1 from 'int' to 'Dvdd &'
+     1>Done Building Project "E:\taha work\OOP Labs\OOP new work\practice\DVD(Lab 8)\DVD(Lab 8)\DVD(Lab 8).vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.42

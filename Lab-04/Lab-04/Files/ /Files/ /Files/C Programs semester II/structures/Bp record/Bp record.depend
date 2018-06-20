@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506080213 source:e:\c programs semester ii\structures\bp record\main.c
+	<stdio.h>
+	<string.h>
+

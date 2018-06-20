@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517069101 source:e:\oop(semester 3)\language selector(for teaching oop)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

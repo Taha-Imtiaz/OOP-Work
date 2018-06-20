@@ -1,0 +1,27 @@
+﻿Build started 4/24/2018 9:44:26 PM.
+     1>Project "E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Lab 01-Car\Lab 01-Car.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab 01-Car.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         E:\taha\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Lab 01-Car.exe.embed.manifest.res" "Debug\Lab 01-Car_manifest.rc" 
+       Link:
+         E:\taha\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Debug\Lab 01-Car.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lab 01-Car.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Debug\Lab 01-Car.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Debug\Lab 01-Car.lib" /MACHINE:X86 "Debug\Lab 01-Car.exe.embed.manifest.res"
+         Debug\main.obj
+         LINK : E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Debug\Lab 01-Car.exe not found or not built by the last incremental link; performing full link
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Lab 01-Car.exe.embed.manifest" /manifest "Debug\Lab 01-Car.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Lab 01-Car.vcxproj -> E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Debug\Lab 01-Car.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab 01-Car.unsuccessfulbuild".
+         Touching "Debug\Lab 01-Car.lastbuildstate".
+     1>Done Building Project "E:\taha work\OOP Labs\Lab -01\Lab 01-Car\Lab 01-Car\Lab 01-Car.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.26

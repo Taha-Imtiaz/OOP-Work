@@ -1,0 +1,21 @@
+﻿Build started 6/3/2018 12:52:29 AM.
+     1>Project "C:\taha work\OOP Labs\Lab-07\student\student\student.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\student.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\student.unsuccessfulbuild".
+         Touching "Debug\student.lastbuildstate".
+     1>Done Building Project "C:\taha work\OOP Labs\Lab-07\student\student\student.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

@@ -1,0 +1,31 @@
+﻿Build started 5/5/2018 7:53:52 PM.
+     1>Project "C:\taha work\OOP Labs\Lab -05\main\main\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\main.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\taha work\OOP Labs\Lab -05\main\Debug\main.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\main.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\taha work\OOP Labs\Lab -05\main\Debug\main.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\taha work\OOP Labs\Lab -05\main\Debug\main.lib" /MACHINE:X86 Debug\main.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\Rationalnumber.obj
+         Debug\stdafx.obj
+     1>Rationalnumber.obj : error LNK2005: "public: __thiscall Rationalnumber::Rationalnumber(void)" (??0Rationalnumber@@QAE@XZ) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: __thiscall Rationalnumber::Rationalnumber(int,int)" (??0Rationalnumber@@QAE@HH@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: int __thiscall Rationalnumber::getnumerator(void)" (?getnumerator@Rationalnumber@@QAEHXZ) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: int __thiscall Rationalnumber::getdenominator(void)" (?getdenominator@Rationalnumber@@QAEHXZ) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: void __thiscall Rationalnumber::setnumerator(int)" (?setnumerator@Rationalnumber@@QAEXH@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: void __thiscall Rationalnumber::setdenominator(int)" (?setdenominator@Rationalnumber@@QAEXH@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: class Rationalnumber __thiscall Rationalnumber::operator+(class Rationalnumber)" (??HRationalnumber@@QAE?AV0@V0@@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: class Rationalnumber __thiscall Rationalnumber::operator-(class Rationalnumber)" (??GRationalnumber@@QAE?AV0@V0@@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: class Rationalnumber __thiscall Rationalnumber::operator*(class Rationalnumber)" (??DRationalnumber@@QAE?AV0@V0@@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: class Rationalnumber __thiscall Rationalnumber::operator/(class Rationalnumber)" (??KRationalnumber@@QAE?AV0@V0@@Z) already defined in main.obj
+     1>Rationalnumber.obj : error LNK2005: "public: void __thiscall Rationalnumber::display(void)" (?display@Rationalnumber@@QAEXXZ) already defined in main.obj
+     1>C:\taha work\OOP Labs\Lab -05\main\Debug\main.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\taha work\OOP Labs\Lab -05\main\main\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.35

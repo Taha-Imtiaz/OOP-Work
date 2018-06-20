@@ -1,0 +1,51 @@
+Lectures C++
+lecture 1 (part 1)
+c++ made by bjarne belong to danmark.made in 1983.introduce classes.c++ is the world 4th most popular language
+it is a middle level language.support OOP.follows OOP<generic programming
+lecture 1(part 2)
+comparision of c and c++
+c++ is a superset of c language.
+c++ can use existing c libraries.
+c follows top down approach (first define main function and call functions) while c++ follows bottom up approach(first do detailed work then assembled all)
+c++ follows OOP as well as procedural oriented guidelines
+lecture 1 (part 3)
+what is OOP
+object is what which has some properties.
+we use variables to store information.class is a method to group variables,we make functions.
+key principles
+encapsulation(act of combining properties and methods related to the same objects).we can make functions and variables in a class
+data hiding 
+polymorphism
+abstruction
+inheritance
+lecture 1 (part 4)
+classes and objects
+class is a blueprint (map) of object. object is a big memory block contains so many variables in it.variable contains single data.we make new data type
+through this data type the variable we make is called an object.class is a description of objects.class means user define data types.we can achieve encapsulation through classes.
+object consumes memory.depends upon how many variables make in a class.object is an example of class.
+class box{
+int l,b,h;
+void setdimensions(int x,int y,int z)
+void show dimensions()
+};
+box b1; // b1,b2,b3 are called objects
+box b2;
+box b3;
+lecture1 (part5)
+how to make software in c++
+it is OS understandable.exe make to understand one OS.we use c++ its extension is .cpp.use preprocessor to join the content of header files with the program.and make a separate file without header file.compiler reads the whole code
+translate the code which is OS understandable that is called object files.some words are written in library files.linker combines
+object file and library file and make a new file (exe file)that is called as a software.
+lecture 2 (part 1)
+constants
+any information is called constants.data is information called constant.
+types of constants
+1.primary(int ,char ,float) 
+2.secondary(array,string,union,structue,enumerator,pointer and class) buld with the help of primary constant.
+variables are the names of memory locations where we store data.
+keywards 
+its meaning is known by compiler.
+lecture 2(part 2)
+data types
+int,char,float,double,void(datatype declarion to know whether the variable is int,float,char or double).
+you can declare variable anywhere.

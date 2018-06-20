@@ -1,0 +1,4 @@
+E:\c#programs\while loop\while loop\bin\Debug\while loop.exe
+E:\c#programs\while loop\while loop\bin\Debug\while loop.pdb
+E:\c#programs\while loop\while loop\obj\x86\Debug\while loop.exe
+E:\c#programs\while loop\while loop\obj\x86\Debug\while loop.pdb

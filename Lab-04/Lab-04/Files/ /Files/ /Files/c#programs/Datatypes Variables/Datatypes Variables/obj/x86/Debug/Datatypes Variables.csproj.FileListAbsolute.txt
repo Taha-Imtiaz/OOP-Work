@@ -1,0 +1,4 @@
+E:\c#programs\Datatypes Variables\Datatypes Variables\bin\Debug\Datatypes Variables.exe
+E:\c#programs\Datatypes Variables\Datatypes Variables\bin\Debug\Datatypes Variables.pdb
+E:\c#programs\Datatypes Variables\Datatypes Variables\obj\x86\Debug\Datatypes Variables.exe
+E:\c#programs\Datatypes Variables\Datatypes Variables\obj\x86\Debug\Datatypes Variables.pdb

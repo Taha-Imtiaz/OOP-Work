@@ -1,0 +1,4 @@
+E:\c#programs\compilevs run time\compilevs run time\bin\Debug\compilevs run time.exe
+E:\c#programs\compilevs run time\compilevs run time\bin\Debug\compilevs run time.pdb
+E:\c#programs\compilevs run time\compilevs run time\obj\x86\Debug\compilevs run time.exe
+E:\c#programs\compilevs run time\compilevs run time\obj\x86\Debug\compilevs run time.pdb

@@ -1,0 +1,4 @@
+E:\c#programs\decision structure\decision structure\bin\Debug\decision structure.exe
+E:\c#programs\decision structure\decision structure\bin\Debug\decision structure.pdb
+E:\c#programs\decision structure\decision structure\obj\x86\Debug\decision structure.exe
+E:\c#programs\decision structure\decision structure\obj\x86\Debug\decision structure.pdb

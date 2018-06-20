@@ -1,0 +1,4 @@
+E:\c#programs\switch case\switch case\bin\Debug\switch case.exe
+E:\c#programs\switch case\switch case\bin\Debug\switch case.pdb
+E:\c#programs\switch case\switch case\obj\x86\Debug\switch case.exe
+E:\c#programs\switch case\switch case\obj\x86\Debug\switch case.pdb

@@ -1,0 +1,4 @@
+E:\c#programs\conditional operator\conditional operator\bin\Debug\conditional operator.exe
+E:\c#programs\conditional operator\conditional operator\bin\Debug\conditional operator.pdb
+E:\c#programs\conditional operator\conditional operator\obj\x86\Debug\conditional operator.exe
+E:\c#programs\conditional operator\conditional operator\obj\x86\Debug\conditional operator.pdb

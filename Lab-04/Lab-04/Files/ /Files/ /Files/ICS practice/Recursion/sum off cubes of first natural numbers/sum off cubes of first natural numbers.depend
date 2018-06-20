@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510827251 source:e:\ics practice\recursion\sum off cubes of first natural numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

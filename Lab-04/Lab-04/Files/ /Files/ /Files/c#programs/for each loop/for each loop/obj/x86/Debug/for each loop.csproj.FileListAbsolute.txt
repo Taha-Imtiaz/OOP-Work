@@ -1,0 +1,4 @@
+E:\c#programs\for each loop\for each loop\bin\Debug\for each loop.exe
+E:\c#programs\for each loop\for each loop\bin\Debug\for each loop.pdb
+E:\c#programs\for each loop\for each loop\obj\x86\Debug\for each loop.exe
+E:\c#programs\for each loop\for each loop\obj\x86\Debug\for each loop.pdb

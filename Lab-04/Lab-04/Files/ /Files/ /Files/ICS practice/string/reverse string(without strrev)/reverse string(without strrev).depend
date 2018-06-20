@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510830728 source:e:\ics practice\string\reverse string(without strrev)\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,4 @@
+E:\c#programs\Consolehelloworld\Consolehelloworld\bin\Debug\Consolehelloworld.exe
+E:\c#programs\Consolehelloworld\Consolehelloworld\bin\Debug\Consolehelloworld.pdb
+E:\c#programs\Consolehelloworld\Consolehelloworld\obj\x86\Debug\Consolehelloworld.exe
+E:\c#programs\Consolehelloworld\Consolehelloworld\obj\x86\Debug\Consolehelloworld.pdb

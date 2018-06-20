@@ -1,0 +1,1 @@
+document.write("Javascript is placed in external JS file");

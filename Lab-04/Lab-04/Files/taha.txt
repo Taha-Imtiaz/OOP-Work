@@ -1,0 +1,79 @@
+#include<iostream>
+
+using namespace std;
+class Complex number
+{
+
+public:
+	Complex number(float real,float imaginary)
+	{
+	this->Real part= real;
+	this->Imaginary Part=imaginary;
+	}
+	Complex number(Complex number &Z1)
+	{
+	this->Real part=Z1.real;
+	this->Imaginary Part=Z1.imaginary;
+	}
+	Complex number()
+	{
+	this->Real part= 2;
+	this->Imaginary Part=5;
+	}
+	float getReal part()
+	{
+	return this->Real part;
+	}
+	float getImaginary Part()
+	{
+	return this->Imaginary Part;
+	}
+	void setReal part(float real)
+	{
+		cout<<"Enter the value that you want to modify"<<endl;
+		cin>>real;
+		this->Real part=real;
+	}
+	void setReal part(float img)
+	{
+		cout<<"Enter the value that you want to modify"<<endl;
+		cin>>img;
+		this->Imaginary part=img;
+	}
+	Complex number operator+(Complex number z2)
+	{
+	Complex number Z3;
+	Z3.real part=this->real part+Z2.real part;
+	Z3.Imaginary Part=this->Imaginary Part+Z2.Imaginary Part;
+	return Z3;
+	}
+	void display()
+	{
+	cout<<"This is the real Part";
+	cout<<"Real part ";
+	cout<<"This is the imaginary  Part";
+	cout<<"Imaginary Part";
+	}
+
+
+private:	
+	Real part;
+	Imaginary Part;
+};
+
+
+#include <iostream>
+using namespace std;
+#include<"jjbvbh.h">
+int main()
+{
+Complex number=Z1(5,6);
+Complex number=Z2(Z1);
+Complex number=Z3;
+Z3=Z1+Z2;
+cout<<"The sum of two numbers is"<<endl;
+Z3.display();
+system("pause");
+
+
+}

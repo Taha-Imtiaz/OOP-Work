@@ -1,0 +1,4 @@
+E:\c#programs\arrays\arrays\bin\Debug\arrays.exe
+E:\c#programs\arrays\arrays\bin\Debug\arrays.pdb
+E:\c#programs\arrays\arrays\obj\x86\Debug\arrays.exe
+E:\c#programs\arrays\arrays\obj\x86\Debug\arrays.pdb

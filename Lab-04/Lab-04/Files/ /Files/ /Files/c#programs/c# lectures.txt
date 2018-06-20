@@ -1,0 +1,41 @@
+C# Programming lectures.
+C# is a powerful OOP language that enables progarammers to create windows applications,web services,data base tools,components and much more.
+what is .net framework 
+A software development framework developed by microsoft.
+It provides an environment in which our applications runs.
+.net framework provides services to application developers to create applications.
+Microsoft started development of .NET framework in the late 1990's.native code is called binary code.
+c# 1st program
+use console.WriteLine for printing.
+static void main k andar code likhna hai.c# is case sensitive language.
+using system is called Namespace declearation.
+A namespace is a collection of classes.A console is present inside the system name space.namespace is used to organise your code.
+we also remove using system but then we use system before every console 
+console.readline is a function which wait for a user to press the enter/any key. 
+lecture #4
+when we make c# empty project visual studio gives so many setup files which helps in building project.
+Solution files contains so many projects in it.solution files contains the name of project.
+What does Using part do??
+system contains so mny classes in it and many functions in it.Console.WriteLine is one of the class.We import Console.WriteLine from System & using is a keyword.
+We have main function that is the entry point of our program and execute sequentially.Main function is defined in Program class.
+assume Program is a rebot and Main is the part of Program.we define all our programs in class Program and execute with the help of main.
+the name of namespace is also same as the name of the program.
+The benefit of name space is that other user can use it by making a library of it.this means that by including Basic flow as a library file he can use all the code to fast our programming.
+lecture #5
+Variables are used to store data.Variables are use to preserve data.data type and variable type is always same.int is used to store integer value.
+use age++ to increment and age-- to decrement.
+second data type is string to store alphanumeric data.string always written in double quotes.
+conditional operator will be used when there is only statement in if else.
+for arrays use [] for declearation then the name of array.
+Loops
+Loops are used to execute the statements repeatedly.
+while loops first check the codition and then enters in the body.
+do-while loop execute the statement for the first time and then check the condition.
+in for loop we can initialize the variable in the body of for.
+for each loop is used for collection of data.in this loop we cannot specify condition and increment and it is easy to implement.
+compile time vs run time
+when we are writing a code then it is called compile time.it checks the syntax errors in a code and variable type.
+when we write our code successfully there no compile time error.
+error at time of running the code is called run time error.it also finds logical error.it checks the data at the time of running.
+for example if you divide any value by zero there is an error called exception.
+

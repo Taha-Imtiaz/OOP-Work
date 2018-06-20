@@ -1,0 +1,31 @@
+﻿Build started 3/27/2018 5:20:47 PM.
+     1>Project "E:\taha work\OOP Labs\Lab -05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(88): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(89): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(96): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(7): error C2011: 'Point' : 'class' type redefinition
+                 e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(7) : see declaration of 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\complex.h(34): error C2027: use of undefined type 'Point'
+                 e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(7) : see declaration of 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\complex.h(34): error C2228: left of '.getx' must have class/struct/union
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\complex.h(35): error C2027: use of undefined type 'Point'
+                 e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(7) : see declaration of 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\complex.h(35): error C2228: left of '.gety' must have class/struct/union
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(9): error C2079: 'a' uses undefined class 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): error C2079: 'b' uses undefined class 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): error C2079: 'd' uses undefined class 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C2440: 'type cast' : cannot convert from 'double' to 'Point'
+                 Source or target has incomplete type
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): error C2027: use of undefined type 'Point'
+                 e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\header.h(7) : see declaration of 'Point'
+     1>e:\taha work\oop labs\lab -05\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "E:\taha work\OOP Labs\Lab -05\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.57

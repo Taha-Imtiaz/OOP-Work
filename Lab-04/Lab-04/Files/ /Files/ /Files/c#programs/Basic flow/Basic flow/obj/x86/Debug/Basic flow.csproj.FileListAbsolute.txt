@@ -1,0 +1,5 @@
+E:\c#programs\Basic flow\Basic flow\bin\Debug\Basic flow.exe
+E:\c#programs\Basic flow\Basic flow\bin\Debug\Basic flow.pdb
+E:\c#programs\Basic flow\Basic flow\obj\x86\Debug\Basic flow.exe
+E:\c#programs\Basic flow\Basic flow\obj\x86\Debug\Basic flow.pdb
+E:\c#programs\Basic flow\Basic flow\obj\x86\Debug\Basic flow.csprojResolveAssemblyReference.cache

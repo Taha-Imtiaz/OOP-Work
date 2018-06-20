@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510831414 source:e:\ics practice\string\capitalize string\main.c
+	<stdio.h>
+	<string.h>
+

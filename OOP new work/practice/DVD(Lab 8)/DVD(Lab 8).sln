@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DVD(Lab 8)", "DVD(Lab 8)\DVD(Lab 8).vcxproj", "{BABC6A7E-390F-4DF8-B67F-57ABB6376449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABC6A7E-390F-4DF8-B67F-57ABB6376449}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BABC6A7E-390F-4DF8-B67F-57ABB6376449}.Debug|Win32.Build.0 = Debug|Win32
+		{BABC6A7E-390F-4DF8-B67F-57ABB6376449}.Release|Win32.ActiveCfg = Release|Win32
+		{BABC6A7E-390F-4DF8-B67F-57ABB6376449}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

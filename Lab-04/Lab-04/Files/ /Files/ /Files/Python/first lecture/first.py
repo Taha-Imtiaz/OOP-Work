@@ -1,0 +1,10 @@
+print('Hello New World');
+name='taha';
+name="taha";
+age=21;
+email="tahaimtiaz1996@gmail.com";
+print(name);
+name=66;
+print(name);
+name1="My father name is Imtiaz Elahi";
+print(name1);
