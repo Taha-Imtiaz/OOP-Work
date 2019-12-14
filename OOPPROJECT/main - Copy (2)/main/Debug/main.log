@@ -1,0 +1,72 @@
+﻿Build started 6/26/2018 3:46:04 AM.
+     1>Project "C:\tahawork\OOPLabs\OOPPROJECT\main - Copy (2)\main\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\main.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt algorithm.cpp classroom.cpp graph.cpp main.cpp node.cpp room.cpp specialroom.cpp teachersroom.cpp
+         teachersroom.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+         specialroom.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+         room.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+         node.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+         main.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\graph.cpp(224): error C2264: 'Node::getTeacher_name' : error in function definition or declaration; function not called
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\algorithm.cpp(74): error C2065: 'WINT_MAX' : undeclared identifier
+         graph.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\graph.cpp(224): error C2264: 'Node::getTeacher_name' : error in function definition or declaration; function not called
+         classroom.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+         algorithm.cpp
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2556: 'std::string Node::getTeacher_name(void)' : overloaded function differs only by return type from 'void Node::getTeacher_name(void)'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.cpp(44): error C2371: 'Node::getTeacher_name' : redefinition; different basic types
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\room.h(37): error C2555: 'room::getTeacher_name': overriding virtual function return type differs and is not covariant from 'Node::getTeacher_name'
+                 c:\tahawork\ooplabs\oopproject\main - copy (2)\main\node.h(22) : see declaration of 'Node::getTeacher_name'
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\graph.cpp(224): error C2264: 'Node::getTeacher_name' : error in function definition or declaration; function not called
+     1>c:\tahawork\ooplabs\oopproject\main - copy (2)\main\algorithm.cpp(74): error C2065: 'WINT_MAX' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "C:\tahawork\OOPLabs\OOPPROJECT\main - Copy (2)\main\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.61
